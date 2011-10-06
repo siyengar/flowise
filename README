@@ -1,0 +1,7 @@
+flowise is a project to aim to allow configuration of WISE applications via an XML based configuration
+Middleware is easily pluggable as a stage of the application in the configuration file.
+Deployment is also simplified by allowing generic specification of deployment
+
+To use:
+
+python runapp.py <config file>
